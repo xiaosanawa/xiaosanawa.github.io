@@ -1,79 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+<search>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
-  
-  <link href="http://example.com/"/>
-  <updated>2022-12-04T04:19:37.953Z</updated>
-  <id>http://example.com/</id>
-  
-  <author>
-    <name>xiaosan0328</name>
-    
-  </author>
-  
-  <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
     <title>阿广</title>
-    <link href="http://example.com/2022/12/04/%E9%98%BF%E5%B9%BF/"/>
-    <id>http://example.com/2022/12/04/%E9%98%BF%E5%B9%BF/</id>
-    <published>2022-12-04T03:04:20.000Z</published>
-    <updated>2022-12-04T04:19:37.953Z</updated>
+    <link href="/2022/12/04/%E9%98%BF%E5%B9%BF/"/>
+    <url>/2022/12/04/%E9%98%BF%E5%B9%BF/</url>
     
     <content type="html"><![CDATA[<h2 id="风吹去，我徘徊着，不经意间却下起了雨，雨不大，渐渐勾起那段回忆，可故人已去，又何必想起…"><a href="#风吹去，我徘徊着，不经意间却下起了雨，雨不大，渐渐勾起那段回忆，可故人已去，又何必想起…" class="headerlink" title="  风吹去，我徘徊着，不经意间却下起了雨，雨不大，渐渐勾起那段回忆，可故人已去，又何必想起…"></a>  风吹去，我徘徊着，不经意间却下起了雨，雨不大，渐渐勾起那段回忆，可故人已去，又何必想起…</h2><p>  我与阿广本不相识，但见面时却如见亲友，甚是面熟，好似</p>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;h2 id=&quot;风吹去，我徘徊着，不经意间却下起了雨，雨不大，渐渐勾起那段回忆，可故人已去，又何必想起…&quot;&gt;&lt;a href=&quot;#风吹去，我徘徊着，不经意间却下起了雨，雨不大，渐渐勾起那段回忆，可故人已去，又何必想起…&quot; class=&quot;headerlink&quot; title=&quot;  风吹</summary>
-      
-    
-    
-    
     
   </entry>
   
+  
+  
   <entry>
     <title>第一天的废话blog</title>
-    <link href="http://example.com/2022/12/04/%E7%AC%AC%E4%B8%80%E5%A4%A9%E7%9A%84%E5%BA%9F%E8%AF%9Dblog/"/>
-    <id>http://example.com/2022/12/04/%E7%AC%AC%E4%B8%80%E5%A4%A9%E7%9A%84%E5%BA%9F%E8%AF%9Dblog/</id>
-    <published>2022-12-03T23:39:19.000Z</published>
-    <updated>2022-12-04T03:03:42.093Z</updated>
+    <link href="/2022/12/04/%E7%AC%AC%E4%B8%80%E5%A4%A9%E7%9A%84%E5%BA%9F%E8%AF%9Dblog/"/>
+    <url>/2022/12/04/%E7%AC%AC%E4%B8%80%E5%A4%A9%E7%9A%84%E5%BA%9F%E8%AF%9Dblog/</url>
     
     <content type="html"><![CDATA[<h2 id="今天算是写blog的第一天，其实也没什么可写…那删文件跑路？"><a href="#今天算是写blog的第一天，其实也没什么可写…那删文件跑路？" class="headerlink" title="  今天算是写blog的第一天，其实也没什么可写…那删文件跑路？"></a>  今天算是写blog的第一天，其实也没什么可写…那删文件跑路？</h2><p>全剧终<br>xiaosan跑路了 带着tete的钱跑路了</p><hr><p>  emm，跑路暂时是不可能的（以后说不定），其实搭这个blog也没什么意义，不过就是写一些可有可无的东西，留给以后纪念，不要多想，我也没什么本事，只能胡写一些东西,（有一部分其实也是为了装*），但是无所谓啦可能也不会有太多人看自己高兴就好了（忽略你们）。与此同时了，我还可以在这里面写一写可有可无的小说，其实也没什么，哈哈，这篇blog也就这样吧…</p>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;h2 id=&quot;今天算是写blog的第一天，其实也没什么可写…那删文件跑路？&quot;&gt;&lt;a href=&quot;#今天算是写blog的第一天，其实也没什么可写…那删文件跑路？&quot; class=&quot;headerlink&quot; title=&quot;  今天算是写blog的第一天，其实也没什么可写…那删文件跑路？</summary>
-      
-    
-    
-    
     
   </entry>
   
+  
+  
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/11/30/hello-world/"/>
-    <id>http://example.com/2022/11/30/hello-world/</id>
-    <published>2022-11-30T13:50:34.800Z</published>
-    <updated>2022-11-30T13:50:34.800Z</updated>
+    <link href="/2022/11/30/hello-world/"/>
+    <url>/2022/11/30/hello-world/</url>
     
     <content type="html"><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo<i class="fas fa-external-link-alt"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation<i class="fas fa-external-link-alt"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting<i class="fas fa-external-link-alt"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub<i class="fas fa-external-link-alt"></i></a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure></div><p>More info: <a class="link"   href="https://hexo.io/docs/writing.html" >Writing<i class="fas fa-external-link-alt"></i></a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure></div><p>More info: <a class="link"   href="https://hexo.io/docs/server.html" >Server<i class="fas fa-external-link-alt"></i></a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure></div><p>More info: <a class="link"   href="https://hexo.io/docs/generating.html" >Generating<i class="fas fa-external-link-alt"></i></a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure></div><p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment<i class="fas fa-external-link-alt"></i></a></p>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a class=&quot;link&quot;   href=&quot;https://hexo.io/&quot; &gt;Hexo&lt;i class=&quot;fas fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/a&gt;! This is your very first post. Che</summary>
-      
-    
-    
-    
     
   </entry>
   
-</feed>
+  
+  
+  
+</search>
