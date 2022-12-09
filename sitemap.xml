@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2022/12/04/%E9%98%BF%E5%B9%BF/</loc>
+    <loc>http://xiaosan.xyz/2022/12/04/%E9%98%BF%E5%B9%BF/</loc>
     
-    <lastmod>2022-12-05</lastmod>
+    <lastmod>2022-12-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/2022/12/04/%E7%AC%AC%E4%B8%80%E5%A4%A9%E7%9A%84%E5%BA%9F%E8%AF%9Dblog/</loc>
+    <loc>http://xiaosan.xyz/2022/12/04/%E7%AC%AC%E4%B8%80%E5%A4%A9%E7%9A%84%E5%BA%9F%E8%AF%9Dblog/</loc>
     
     <lastmod>2022-12-04</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/remark/index.html</loc>
+    <loc>http://xiaosan.xyz/remark/index.html</loc>
     
     <lastmod>2022-12-03</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/about/index.html</loc>
+    <loc>http://xiaosan.xyz/about/index.html</loc>
     
     <lastmod>2022-12-03</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2022/11/30/hello-world/</loc>
+    <loc>http://xiaosan.xyz/2022/11/30/hello-world/</loc>
     
     <lastmod>2022-11-30</lastmod>
     
@@ -48,8 +48,8 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
-    <lastmod>2022-12-05</lastmod>
+    <loc>http://xiaosan.xyz/</loc>
+    <lastmod>2022-12-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
